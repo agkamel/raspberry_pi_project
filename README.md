@@ -22,4 +22,9 @@ Ce projet comporte trois objectifs:
 2. Trouver comment enregistrer les données dans un document quelconque `write csv`
 3. Trouver un package pour l'analyse de donnée
 
+## Projet no2
 
+1. Choisir comment organiser le dossier github
+    - Par exemple: Dossier script, function, etc.
+2. Décider de la répartition des tâches pour le projet
+    - Qui s'occupe de quoi
