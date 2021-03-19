@@ -15,3 +15,11 @@ Ce projet comporte trois objectifs:
 -   Programmer l’ouverture/fermeture automatique d’éclairage (p.ex, tout
     les soirs de 18:00 à 22:00)
 -   Autres…
+
+## Projet no1
+
+1. Trouver un package pour une interface graphique en Python (bouton, bouton radio, etc.)
+2. Trouver comment enregistrer les données dans un document quelconque `write csv`
+3. Trouver un package pour l'analyse de donnée
+
+
